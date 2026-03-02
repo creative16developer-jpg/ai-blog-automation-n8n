@@ -75,4 +75,4 @@ Google Sheets → n8n → AI API → WordPress → Google Sheets Update
 
 ## 📬 Author
 
-Developed by [Your Name]
+Developed by Vivid
