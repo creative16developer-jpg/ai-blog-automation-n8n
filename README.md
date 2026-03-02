@@ -72,7 +72,13 @@ Google Sheets → n8n → AI API → WordPress → Google Sheets Update
 - WordPress Automation
 
 ---
+<img width="945" height="296" alt="wordpress_post" src="https://github.com/user-attachments/assets/f270a075-e21d-4879-b269-9c93c19b1cfe" />
+<img width="960" height="420" alt="n8ncanvas" src="https://github.com/user-attachments/assets/9e399ede-57fe-494a-948d-772d8e41705c" />
+<img width="913" height="368" alt="googlesheet_publish" src="https://github.com/user-attachments/assets/823e43ed-2ba0-4bb7-8918-a3c4905853d7" />
+<img width="613" height="330" alt="googlesheet_pedning" src="https://github.com/user-attachments/assets/0fdf3575-b382-4afb-8aea-65c06390b717" />
 
 ## 📬 Author
 
 Developed by Vivid
+
+
